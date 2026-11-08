@@ -120,7 +120,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.tencent.map:tencent-map-vector-sdk:6.15.1.261013.3d797fb0.242708926'
+    implementation 'com.tencent.map:tencent-map-vector-sdk:6.15.1.261026.9c912421.242708926.full'
     implementation 'com.tencent.openmap:foundation:0.9.1.6875646-pro'
     implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.6.21'
 
