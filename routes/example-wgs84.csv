@@ -1,0 +1,8 @@
+# Example only. Replace with your own route coordinates.
+# Coordinates: WGS84, degrees. Column order: latitude,longitude
+latitude,longitude
+30.000000,120.000000
+30.000000,120.001000
+30.001000,120.001000
+30.001000,120.000000
+30.000000,120.000000

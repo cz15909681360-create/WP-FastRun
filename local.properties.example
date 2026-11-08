@@ -1,0 +1,5 @@
+# Copy to local.properties and configure your Android SDK.
+# Use forward slashes for Windows paths.
+sdk.dir=C:/path/to/Android/Sdk
+# Uncomment and replace with your Tencent Map SDK key:
+# TENCENT_MAP_KEY=your-own-key

@@ -1,0 +1,5 @@
+# Optional release signing. Copy to signing.properties (never commit it).
+storeFile=/path/to/your-release.jks
+storePassword=
+keyAlias=
+keyPassword=
