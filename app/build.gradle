@@ -122,7 +122,7 @@ android {
 dependencies {
     implementation 'com.tencent.map:tencent-map-vector-sdk:6.15.1.261013.3d797fb0.242708926'
     implementation 'com.tencent.openmap:foundation:0.9.1.6875646-pro'
-    implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.6.21'
+    implementation 'org.jetbrains.kotlin:kotlin-stdlib:2.4.21'
 
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     // AppCompat 1.5.1 开始显式依赖于 Lifecycle 2.5.1 和 SavedState 1.2.0
